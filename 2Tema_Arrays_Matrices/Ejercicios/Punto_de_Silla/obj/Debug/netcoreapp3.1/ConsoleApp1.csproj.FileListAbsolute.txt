@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio4\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\bin\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\bin\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\bin\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\bin\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\bin\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\bin\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\obj\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\obj\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\obj\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\obj\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej2_MatrizCuadrada\obj\Debug\netcoreapp3.1\Ej2_MatrizCuadrada.pdb

@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\bin\Debug\netcoreapp3.1\Determinante_Matriz.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\bin\Debug\netcoreapp3.1\Determinante_Matriz.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\bin\Debug\netcoreapp3.1\Determinante_Matriz.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\bin\Debug\netcoreapp3.1\Determinante_Matriz.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\bin\Debug\netcoreapp3.1\Determinante_Matriz.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\bin\Debug\netcoreapp3.1\Determinante_Matriz.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\obj\Debug\netcoreapp3.1\Determinante_Matriz.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\obj\Debug\netcoreapp3.1\Determinante_Matriz.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\obj\Debug\netcoreapp3.1\Determinante_Matriz.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\obj\Debug\netcoreapp3.1\Determinante_Matriz.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio3\Determinante_Matriz\obj\Debug\netcoreapp3.1\Determinante_Matriz.pdb

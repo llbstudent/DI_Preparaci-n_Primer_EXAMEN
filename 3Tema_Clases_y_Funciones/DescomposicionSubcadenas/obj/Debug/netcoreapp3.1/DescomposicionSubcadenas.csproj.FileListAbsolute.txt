@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\bin\Debug\netcoreapp3.1\DescomposicionSubcadenas.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\bin\Debug\netcoreapp3.1\DescomposicionSubcadenas.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\bin\Debug\netcoreapp3.1\DescomposicionSubcadenas.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\bin\Debug\netcoreapp3.1\DescomposicionSubcadenas.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\bin\Debug\netcoreapp3.1\DescomposicionSubcadenas.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\bin\Debug\netcoreapp3.1\DescomposicionSubcadenas.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\obj\Debug\netcoreapp3.1\DescomposicionSubcadenas.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\obj\Debug\netcoreapp3.1\DescomposicionSubcadenas.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\obj\Debug\netcoreapp3.1\DescomposicionSubcadenas.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\obj\Debug\netcoreapp3.1\DescomposicionSubcadenas.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio6\DescomposicionSubcadenas\obj\Debug\netcoreapp3.1\DescomposicionSubcadenas.pdb

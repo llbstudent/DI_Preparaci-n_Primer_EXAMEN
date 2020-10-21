@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\bin\Debug\netcoreapp3.1\Ahorcado_GAME.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\bin\Debug\netcoreapp3.1\Ahorcado_GAME.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\bin\Debug\netcoreapp3.1\Ahorcado_GAME.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\bin\Debug\netcoreapp3.1\Ahorcado_GAME.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\bin\Debug\netcoreapp3.1\Ahorcado_GAME.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\bin\Debug\netcoreapp3.1\Ahorcado_GAME.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\obj\Debug\netcoreapp3.1\Ahorcado_GAME.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\obj\Debug\netcoreapp3.1\Ahorcado_GAME.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\obj\Debug\netcoreapp3.1\Ahorcado_GAME.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\obj\Debug\netcoreapp3.1\Ahorcado_GAME.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\RECUP_DI\1_RELACION_ARRAYS_MATRICES\EJERCICIOS\Ejercicio5\Ahorcado_GAME\obj\Debug\netcoreapp3.1\Ahorcado_GAME.pdb

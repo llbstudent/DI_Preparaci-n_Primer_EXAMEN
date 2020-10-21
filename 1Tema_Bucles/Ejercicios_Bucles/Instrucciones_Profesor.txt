@@ -1,0 +1,43 @@
+Utilizando lo explicado hasta ahora (no vales array) Realizar un programa con salida en consola que realice lo siguiente:
+
+Aparecera un menu inicial de esta manera
+
+ **************  EJERCICIOS DE BUCLES   ************
+
+1. Factorial
+2. Clave
+3.  Numeros primos
+4. Mayusculas descendentes
+5. Salir
+
+    Elija opcion:
+
+Dependiendo de la opcion elegida realizara lo siguiente
+
+
+1  Calculará el factorial de un numero dado
+    Ejemplo:
+    Introduzca numero:   5   
+    El factorial de 5 es :  120
+2. Crear un programa que nos pida una clave de usuario, hasta que pongamos *.
+     Ejemplo :
+     "Que clave deseas?:    Mafalda*    (en el momento que introducimos el asterisco y no antes aparecera:)
+     La clave elegida es Mafalda
+   
+3. Crear un programa que nos muestre los primeros X números primos.  El valor de X nos lo dará el usuario
+    Introduzca numero:   6   
+     Los 6 primeros numeros primos son:
+     1 => 2 
+     2 => 3 
+     3 => 5 
+     4 => 7 
+     5 => 11 
+     6 => 13
+4.  Crear un programa que muestre las letras de la Z (mayuscula) a la A (mayuscula, descendiendo).
+5.  Saldra del programa
+
+El programa cuando termine cada una de las opciones, dejará dos o tres lineas en blanco y luego dirá
+"Pulse para seguir"  lo que nos llevará de nuevo al menu.   Así hasta que le demos a la opcion 5
+
+
+  Pista: Para leer un solo caracter por consola:   Console.ReadKey(false).KeyChar

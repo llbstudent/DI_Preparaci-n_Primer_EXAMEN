@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicios_Bucles_Laura_Lucena_Buendia/1.0.0": {
+        "runtime": {
+          "Ejercicios_Bucles_Laura_Lucena_Buendia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios_Bucles_Laura_Lucena_Buendia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

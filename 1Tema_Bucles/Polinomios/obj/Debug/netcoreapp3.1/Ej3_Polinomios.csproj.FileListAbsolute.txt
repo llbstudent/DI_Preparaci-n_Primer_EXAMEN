@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\bin\Debug\netcoreapp3.1\Ej3_Polinomios.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\bin\Debug\netcoreapp3.1\Ej3_Polinomios.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\bin\Debug\netcoreapp3.1\Ej3_Polinomios.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\bin\Debug\netcoreapp3.1\Ej3_Polinomios.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\bin\Debug\netcoreapp3.1\Ej3_Polinomios.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\bin\Debug\netcoreapp3.1\Ej3_Polinomios.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\obj\Debug\netcoreapp3.1\Ej3_Polinomios.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\obj\Debug\netcoreapp3.1\Ej3_Polinomios.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\obj\Debug\netcoreapp3.1\Ej3_Polinomios.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\obj\Debug\netcoreapp3.1\Ej3_Polinomios.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ej3_Polinomios\obj\Debug\netcoreapp3.1\Ej3_Polinomios.pdb

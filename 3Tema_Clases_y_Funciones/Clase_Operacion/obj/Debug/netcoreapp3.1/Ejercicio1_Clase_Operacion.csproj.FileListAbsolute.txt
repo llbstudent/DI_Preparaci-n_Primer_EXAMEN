@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\bin\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.exe
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\bin\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.deps.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\bin\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\bin\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\bin\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\bin\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.pdb
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\obj\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\obj\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\obj\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\obj\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.dll
+C:\Users\laura\OneDrive\Escritorio\DESARROLLO_INTERFACES\2-RELACION-Clases\Ejercicio1_Clase_Operacion\obj\Debug\netcoreapp3.1\Ejercicio1_Clase_Operacion.pdb
